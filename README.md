@@ -1,4 +1,4 @@
-# missao-hover-lunar
+# missao-rover-lunar
 Este projeto foi desenvolvido como parte da disciplina de Garantia da Qualidade de Software.
 
 O objetivo é simular a inicialização dos sistemas de um Rover Lunar, utilizando Python, além de praticar o uso do Git e GitHub com branches, commits, Pull Requests e merge.
